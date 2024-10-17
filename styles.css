@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container {
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/1032541603/display_1500/stock-photo-the-young-and-conceptual-image-of-a-large-stone-in-the-shape-of-the-human-brain-1032541603.jpg);
+    /* background-size: cover; */
+    height: 400px;
+    width: 100%;
+}
+
+.logotext {
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    margin: 130px auto auto auto;
+    background-color: rgb(61, 60, 60);
+    color: #fff;
+    font-size: 30px;
+    padding-top: 8px;
+
+    word-spacing: 10px;
+}
+
+a {
+    color: rgb(80, 79, 79);
+    text-decoration: none;
+    margin-right: 25px;
+    margin-left: 15px;
+
+}
+
+a:hover {
+    background-color: gray;
+    height: 10px;
+    width: 40px;
+    padding: 8px;
+
+}
+
+.aboutme {
+    margin-top: 70px;
+    margin-left: 45%;
+    font-size: 27px;
+    color: rgb(129, 129, 129);
+}
+
+.smalltxt {
+    margin-top: 30px;
+    margin-left: 45%;
+    font-size: 18px;
+    color: rgb(129, 129, 129);
+}
+
+.maintxt {
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: rgb(129, 129, 129);
+    line-height: 1.6;
+}
+
+.smltxt{
+    margin-left: 30%;
+    margin-top: 80px;
+}
